@@ -69,7 +69,7 @@
                 <div class="input-group-text">
                     <span class="fas fa-lock"></span>
                 </div>
-            </divv>
+            </div>
         </div>
 
         {{-- Register button --}}
